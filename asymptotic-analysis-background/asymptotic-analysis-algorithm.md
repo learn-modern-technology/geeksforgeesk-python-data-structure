@@ -31,8 +31,6 @@ Because for every number n the program does - 1 addition, 1 multiplication and 1
 And we assume that both 100x100 and 10000x10000 will take same time.
 And each operation we are doing only once not n times. So, we have Fixed number of operations.
 There for Order of growth is Constanct C1
-
-
  
 For function sum_till_n_numbers and  sum_till_n_for - we don't have formula.
 We have some Initialization, some loop till n time, we have some operations that runs in a loop
@@ -52,6 +50,9 @@ If we plot these Cost of growth on the X-Y Axis (1st Quadrant), then we will und
 the greater the number used in the fucntion, the higher cost of growth for fucntions that will use complex logics.
 
 ![image1](https://user-images.githubusercontent.com/74963600/201461357-a39eee1a-0546-4a56-bc90-bac9895a28fb.jpg)
+
+
+![image2](https://user-images.githubusercontent.com/74963600/201461683-a9c31fea-6345-4d0e-b118-c488655d1da2.jpg)
 
 Let us say the cost of growth of first function is f(n) and the cost of growth of second function is g(n)
 f(n) - 
