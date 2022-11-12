@@ -32,3 +32,6 @@
     -  So, when n >= 0, the f(n) is always greater.
 
 - Some more example of Omega Notation - Please see the examples below
+![image10](https://user-images.githubusercontent.com/74963600/201490556-5bb249a3-15ea-4020-8bdf-59858f20d17f.jpg)
+
+![image11](https://user-images.githubusercontent.com/74963600/201490558-ffac0001-873c-4427-a728-f043be82d43d.jpg)
