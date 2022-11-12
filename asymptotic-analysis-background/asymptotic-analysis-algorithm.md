@@ -52,3 +52,8 @@ the greater the number used in the fucntion, the higher the cost of growth for f
 
 ![image2]https://github.com/learn-modern-technology/geeksforgeesk-python-data-structure/blob/develop/asymptotic-analysis-background/image2.jpg
 
+
+
+
+
+
