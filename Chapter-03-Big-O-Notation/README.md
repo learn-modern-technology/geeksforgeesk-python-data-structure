@@ -31,3 +31,10 @@
     -  So, when n >= 3, the f(n) is always greater.
 
 - Some more example of Big O Notation - Please see the examples below
+
+![image8](https://user-images.githubusercontent.com/74963600/201490503-f5ae49d3-dd23-4a4c-92d9-3f9879cd35bb.jpg)
+
+![image9](https://user-images.githubusercontent.com/74963600/201490515-a9a6b85a-023e-4ab2-a5e6-e72eb610e200.jpg)
+
+
+
