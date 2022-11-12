@@ -51,9 +51,8 @@ There for cost of growth of this function is - C4 (n)^2 + C5 n + C6
 If we plot these Cost of growth on the X-Y Axis (1st Quadrant), then we will understand - 
 the greater the number used in the fucntion, the higher cost of growth for fucntions that will use complex logics.
 
-![image1](https://user-images.githubusercontent.com/74963600/201460754-23588c0b-4e43-49ab-9eee-8e67a5ae53fc.jpg)
+![image1](https://user-images.githubusercontent.com/74963600/201461070-9578e7ab-3190-461f-98a1-359cf3d71685.jpg)
 
- 
 Let us say the cost of growth of first function is f(n) and the cost of growth of second function is g(n)
 f(n) - 
 
