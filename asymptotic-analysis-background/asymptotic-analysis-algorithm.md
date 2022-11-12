@@ -48,12 +48,8 @@ the greater the number used in the fucntion, the higher the cost of growth for f
 - Then the f(n) will will perform evenly through out, but the time taken for g(n) will keep increasing. 
 - Initially, time taken for g(n) will be less than f(n) but after a certain limit, it will take more time than f(n)
 
-![alt text]https://github.com/learn-modern-technology/geeksforgeesk-python-data-structure/blob/b835d99768a48260fa573d779bc6f1a9a3e38222/asymptotic-analysis-background/image1.jpg?raw=true
+![image1](https://user-images.githubusercontent.com/74963600/201464680-c6db690c-d113-422d-a74b-974ede911d61.jpg)
 
-![image2]https://github.com/learn-modern-technology/geeksforgeesk-python-data-structure/blob/develop/asymptotic-analysis-background/image2.jpg
-
-
-
-
+![image2](https://user-images.githubusercontent.com/74963600/201464696-6cb2c546-f4de-423e-a4a6-aa28c1190285.jpg)
 
 
