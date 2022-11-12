@@ -17,28 +17,28 @@
 
  
 ## For the sum-of-numbers-upto-n.py program 
-- ** Order of growth of f(n) - sum_of_numbers_till_n   - C1 (Constant)
-- ** Order of growth of g(n) - sum_till_n_numbers      - C2*n + C3
-- ** Order of growth of g(n) - sum_till_n_for          - C2*n + C3
-- ** Order of growth of h(n) - sum_till_n_double_loop  - C4 (n)^2 + C5 n + C6
+- ** Order of growth of f(n) - sum_of_numbers_till_n   - $\C_1$ (Constant)
+- ** Order of growth of g(n) - sum_till_n_numbers      - $\C_2 n + C_3$
+- ** Order of growth of g(n) - sum_till_n_for          - $\C_2 n + C_3$
+- ** Order of growth of h(n) - sum_till_n_double_loop  - $\C_4 n^2 + C_5 n + C_6$
 
 ## For function sum_of_numbers_till_n 
 - ** we have used formula.
-- ** So, the order of growth is constant - C1.
+- ** So, the order of growth is constant - $\C_1$.
 - ** Because for every number n the program does - 1 addition, 1 multiplication and 1 division.
 - ** And we assume that both 100x100 and 10000x10000 will take same time.
 - ** And each operation we are doing only once not n times. So, we have Fixed number of operations.
-- ** Therefore Order of growth is Constanct C1
+- ** Therefore Order of growth is Constanct $\C_1$
 
 ## For function sum_till_n_numbers and  sum_till_n_for - we don't have formula.
 - ** We have some Initialization, some loop till n time, we have some operations that runs in a loop
-- ** So, the order of Growth is - C2n
-- ** Then we have some constant operation as well, so order of growth is - C3
+- ** So, the order of Growth is - $\C_2 n$
+- ** Then we have some constant operation as well, so order of growth is - $\C_3$
  
 ## For function sum_till_n_double_loop-
 - ** We have 2 loops, one addition and initialization
-- ** And the loop will execute n*(n+1)/2 times, which is equal to (n)^2 + n 
-- ** There for cost of growth of this function is - C4 (n)^2 + C5 n + C6
+- ** And the loop will execute $\n*(n+1)/2$ times, which is equal to $\n^2 + n$
+- ** There for cost of growth of this function is - $\C_4 n^2 + C_5 n + C_6$
 
 ## Let us compare or analyze the function to determine the best function
 - If we plot these Cost of growth on the X-Y Axis (1st Quadrant), then we will understand - 
