@@ -37,7 +37,8 @@
     ```
     - If n=32 and c=2, the loop will execute for 1,2,4,8,16
     - If n=33 and c=2, the loop will execute for 1,2,4,8,16,32
-    - The loop runs in sequence - $2^0 2^1 2^2 2^3 2^4$ ..... $2^(k-1)$
+    - The loop runs in sequence - $2^0 2^1 2^2 2^3 2^4$ ..... $2^(k-1)$ 
+    - $c^(k-1)$<$n$
     - $c^(k-1)<n$
     - $k-1=log n / log c $
     - $k=log n+1$
