@@ -42,4 +42,7 @@
     - So, space complexity for this function is denoted by $θ(n)$.
     - Auxillary space - required here is constant. Because space needed for storing the object valuesare all constant.
 
-### How to calculate Space or Auxillary Complexity
+### How to calculate Space or Auxill!ary Complexity
+
+![image17](https://user-images.githubusercontent.com/74963600/201538210-9ef33e2e-5f51-47ea-8fa4-13ae5254e9a8.jpg)
+
