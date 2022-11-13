@@ -1,6 +1,6 @@
 # **Learn Data Structure using python**
 - Following Topics are covered  
-    1. Analysis of Algorithms
+    ## **Analysis of Algorithms**
        - Analysis of Algorith Background
        - Order of Growth
        - Big O Notation
