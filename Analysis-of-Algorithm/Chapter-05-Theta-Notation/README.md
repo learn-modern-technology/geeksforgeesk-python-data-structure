@@ -41,4 +41,8 @@
 - Ideally, we should use the Theta notation wherever we know the exact bound.
 - For example - Time complexity to find Max, Min and Average in an array can be represneted using Theta Notation
 
-- Some more example of Theta Notation - Please see the examples below
+- Some additional info of Theta Notation usages - Please see the examples below
+
+![image12](https://user-images.githubusercontent.com/74963600/201507301-803dee17-2403-4038-b15b-d506520ac9f8.jpg)
+
+![image13](https://user-images.githubusercontent.com/74963600/201507306-c6f7e7d8-05bf-45ca-b061-bfef9bea0638.jpg)
