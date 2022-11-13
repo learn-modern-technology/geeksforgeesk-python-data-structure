@@ -115,5 +115,10 @@
     - Total work done - $θ(n)$
     - Overall Time Complexity is $θ(n)$
 
-    - Some other examples for Analysing the Time Complexity
+    - Some other examples for Analysing the Time Complexity  
     
+    ![image14](https://user-images.githubusercontent.com/74963600/201532227-f49098a0-c152-4dad-acb6-8da8196c664a.jpg)
+    
+    ![image15](https://user-images.githubusercontent.com/74963600/201532240-75ba272e-0b8d-4611-be8c-89dfb4904f29.jpg)
+    
+    ![image16](https://user-images.githubusercontent.com/74963600/201532256-5194137d-0cad-453d-9350-0f5fe7760d7b.jpg)
