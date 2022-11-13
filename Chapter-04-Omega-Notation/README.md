@@ -22,7 +22,7 @@
   $f(n)=2n+3$ can be written as Ω(n). It implies that g(n)=n
 - Let us try to see how we can proove or verify that Omega notation that we found is correct  
   - 1. $0<=cg(n)<=f(n)$ for all $n >= n_0$
-    -  $2n+3<=cn$ for all $n >= n_0$
+    -  $0<=cn<=2n+3$ for all $n >= n_0$
     -  For solving purpose, we will take c as the previous value of the highest growing term. 
     -  In this case, the highest growing term is $2n$. 
     -  So, previous value is - $c=1$
