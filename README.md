@@ -1,2 +1,11 @@
-# geeksforgeesk-python-data-structure
-Learn Data Structure using python
+# **Learn Data Structure using python**
+- Following Topics are covered  
+    1. Analysis of Algorithms
+       - Analysis of Algorith Background
+       - Order of Growth
+       - Big O Notation
+       - Omega Notation
+       - Theta Notation
+       - Analysis of Common Loops
+       - Analysis of Recursion
+       - Space Complexity
