@@ -38,8 +38,8 @@
     - If n=32 and c=2, the loop will execute for 1,2,4,8,16
     - If n=33 and c=2, the loop will execute for 1,2,4,8,16,32
     - The loop runs in sequence - $2^0 2^1 2^2 2^3 2^4$ ..... $2^(k-1)$ 
-    - $c^(k-1)$<$n$
-    - $c^(k-1)<n$
+    - $c^(k-1) < n $
+    - $c^(k-1)< n $
     - $k-1=log n / log c $
     - $k=log n+1$
     - Since, we can ignore constant. we can say order of growth of For Loop is θ(log n)
@@ -67,9 +67,9 @@
         ## Time work
     ```
     - If n=32 and c=2, the loop will execute for 2, 4, 16
-    - The loop runs in sequence - $2^1$ $2^2$ $2^2^2$ to $2^c^(k-1)$
-    - $2^c^(k-1) <n $
-    - $c^(k-1) < log n $
+    - The loop runs in sequence - $2^1 2^2 (2^(2^2))$ to $2^(c^(k-1))$
+    - $2^(c^(k-1)) < n $
+    - $c^(k-1) < logn $
     - $k < log(log n) + 1 $
     - Since, we can ignore constant. we can say order of growth of For Loop is θ(log(log n))
     - The equivalent for loop will also have same cost of growth - θ(log(log n))
