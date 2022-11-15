@@ -44,4 +44,4 @@
 
 ### How to calculate Space or Auxillary Complexity
 
-![image17](https://user-images.githubusercontent.com/74963600/201538210-9ef33e2e-5f51-47ea-8fa4-13ae5254e9a8.jpg)
+![image17](https://user-images.githubusercontent.com/74963600/201860135-3d4cbd21-af39-4215-9936-3540b6fad92e.jpg)
